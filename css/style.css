@@ -17,6 +17,21 @@ body {
   margin-bottom: 10px;
 }
 
+.image-top {
+  width: 67%;
+  display: block;
+  margin: auto;
+}
+
+.image1 {
+  margin-top: -15px;
+}
+
+.image-cover {
+  width: 65%;
+  margin: auto;
+}
+
 .content-absolute {
   width: 100%;
   padding: 10px 0 12px 0;
@@ -242,6 +257,10 @@ body {
 }
 
 @media (min-width:991px) {
+  .box-razzmatazz {
+    margin-top: -15px;
+  }
+
   .layout {
     font-size: 69px;
   }
@@ -360,7 +379,6 @@ body {
   .content-absolute {
     width: 100%;
     padding: 0 !important;
-    margin-top: -10px;
     position: absolute !important;
   }
   .layout-cta{
