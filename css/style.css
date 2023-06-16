@@ -373,7 +373,6 @@ body {
   .swiper-container-rtl .swiper-button-prev {
     right: 39.6px;
   }
-
 }
 @media only screen and (max-width: 989px) {
   .content-absolute {
@@ -383,5 +382,8 @@ body {
   }
   .layout-cta{
     margin-top: 13px
+  }
+  .layoutFooter {
+    margin-top:13px;
   }
 }
